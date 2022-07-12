@@ -1,0 +1,7 @@
+/*.iml
+
+/.docker/postgresql-data/
+/.docker/redis-data/
+/docker-compose.yml
+/.env
+/config/nginx/log/
